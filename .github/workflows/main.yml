@@ -23,7 +23,7 @@ jobs:
       - name: Repository set labels sync
         # You may pin to the exact commit or the version.
         # uses: gimli01/repository-set-labels-sync@4cfec491376f341b444c826b8bfad5da61265713
-        uses: gimli01/repository-set-labels-sync@v1.3.3
+        uses: gimli01/repository-set-labels-sync@v1.3.4
         with:
           # Where to store labels for repositories
           data-directory: "data/"
